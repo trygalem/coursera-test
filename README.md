@@ -1,6 +1,6 @@
 # coursera-test
 Coursera test repository
 
-# buid setting
+# build setting
 markdown:kramdowm
 theme: Cayman
